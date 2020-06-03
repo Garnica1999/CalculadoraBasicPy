@@ -18,6 +18,26 @@ python main.py 1 5 6 7
 ```
 Siendo ```1 5 6 7``` los numeros que usted desea operar.
 
+## Salida
+
+Como un ejemplo de lo que hace el programa, al ejecutar el comando ```python main.py 1 5 6 7``` en la linea de comandos, el programa automaticamente se ejecutara y dara la siguiente salida:
+```
+[1, 5, 6, 7]
+CALCULADORA
+HECHA POR CARLOS A. GARNICA
+Lista: [1, 5, 6, 7]
+Suma: 19
+Resta: -17
+Multiplicacion: 210
+Division: 0.0047619047619047615
+Promedio: 4.75
+Potencia: [1, 78125, 279936]
+Raiz: [1.0, 1.2584989506418267, 1.2917083420907467]
+Copia de lista: [1, 5, 6, 7]
+Operation: [4408.333333333333]
+Ecuacion cuadratica: [-2.0, -3.0]
+```
+
 ## Ventajas
 
 Con esta calculadora puede crear funciones y ecuaciones matematicas que desee calcular multiples veces utilizando *funciones lambda*, pertimitiendole asi crear operaciones matematicas que no estan programadas en la aplicacion y de manera sencilla.

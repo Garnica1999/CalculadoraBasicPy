@@ -13,7 +13,9 @@ Tenemos 2 archivos, los cuales son importantes para la ejecucion de la aplicacio
 > * **main.py:** En este modulo se instancia la clase calculadora, obteniendo tambien los valores numericos **que el usuario debe ingresar por consola**, e imprimiendo los valores de cada operacion matematica.
 
 Para su ejecucion, solamente debe de ingresar la siguiente linea de orden en el comando de su sistema operativo.
+```
 python main.py 1 5 6 7
+```
 
 ## Ventajas
 

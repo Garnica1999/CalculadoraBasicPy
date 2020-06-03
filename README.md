@@ -19,7 +19,7 @@ python main.py 1 5 6 7
 
 Con esta calculadora puede crear funciones y ecuaciones matematicas que desee calcular multiples veces utilizando *funciones lambda*, pertimitiendole asi crear operaciones matematicas que no estan programadas en la aplicacion y de manera sencilla.
 
-##Autor
+## Autor
 
 Carlos A. Garnica - HardwareElite
 

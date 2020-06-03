@@ -16,6 +16,7 @@ Para su ejecucion, solamente debe de ingresar la siguiente linea de orden en el 
 ```
 python main.py 1 5 6 7
 ```
+Siendo ```1 5 6 7``` los numeros que usted desea operar.
 
 ## Ventajas
 
